@@ -1,4 +1,3 @@
-```markdown
 # TensorFlow Deep Learning Guide
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-FF6F00?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
